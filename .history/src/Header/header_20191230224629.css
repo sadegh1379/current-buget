@@ -1,0 +1,6 @@
+.header{
+    background-image: url('../img/sky.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 360px;
+}
